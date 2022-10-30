@@ -174,4 +174,5 @@ def test_user_class_docstring(self) - Test for the User class docstring
 
 ## Authors
 Michael Getu Kebede
+  
 Jonathan Akinyemi (Dropped out of alx)
