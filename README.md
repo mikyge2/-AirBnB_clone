@@ -172,4 +172,6 @@ def test_user_module_docstring(self) - Test for the user.py module docstring
 
 def test_user_class_docstring(self) - Test for the User class docstring
 
-## Authors Michael Getu
+## Authors
+Michael Getu Kebede
+Jonathan Akinyemi (Dropped out of alx)
